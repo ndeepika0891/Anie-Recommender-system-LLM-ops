@@ -1,0 +1,7 @@
+## whatever info not required to be pushed into GIT, include all those here.venv is big so ignore, logs not required,
+## .env has all keys,package managent is not required, if you push these keys to GIT GROQ disables all your keys,
+
+venv/
+logs/
+C:\Users\deepikan\Desktop\Learning\Learning1\Anime\ANIME_RECOMMENDER.egg-info/
+.env  
